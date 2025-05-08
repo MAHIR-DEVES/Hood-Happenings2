@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://i.ibb.co.com/mxXwMG3/photo-1540575467063-178a50c2df87.jpg",
+    "name": "Creative Tech Summit 2025",
+    "category": "Tech",
+    "date": "2025-06-15",
+    "location": "Dhaka, Bangladesh",
+    "entry_fee": "500 BDT",
+    "description": "Join leading tech innovators and creative minds for a day of inspiring talks, hands-on workshops, and networking opportunities."
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://i.ibb.co.com/n8Nm7dLz/istockphoto-526927807-612x612.jpg",
+    "name": "Dhaka Art Expo",
+    "category": "Art",
+    "date": "2025-07-10",
+    "location": "Dhaka Art Center, Dhaka",
+    "entry_fee": "300 BDT",
+    "description": "A vibrant showcase of local and international artists featuring paintings, sculptures, and digital art."
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://i.ibb.co.com/spJ5XzMG/istockphoto-499517325-612x612.jpg",
+    "name": "Startup Networking Night",
+    "category": "Business",
+    "date": "2025-08-05",
+    "location": "Banani, Dhaka",
+    "entry_fee": "Free",
+    "description": "Connect with startup founders, investors, and mentors in a casual evening of idea exchange and collaboration."
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://i.ibb.co.com/Q7SXpsDZ/Untitled-design-4.png",
+    "name": "Code Warriors Hackathon",
+    "category": "Tech",
+    "date": "2025-09-20",
+    "location": "North South University, Dhaka",
+    "entry_fee": "1000 BDT",
+    "description": "A 24-hour coding competition for developers to build innovative software solutions and win exciting prizes."
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://i.ibb.co.com/1Y0vhMgj/slide-05.jpg",
+    "name": "Classical Music Evening",
+    "category": "Music",
+    "date": "2025-06-30",
+    "location": "Chhayanaut Auditorium, Dhaka",
+    "entry_fee": "400 BDT",
+    "description": "Enjoy a soothing evening with performances from renowned classical musicians and vocalists."
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://i.ibb.co.com/V03QpLBv/WIFS202410141251-12801-1024x683.jpg",
+    "name": "Sustainable Living Fair",
+    "category": "Lifestyle",
+    "date": "2025-10-12",
+    "location": "Bashundhara Convention Center, Dhaka",
+    "entry_fee": "250 BDT",
+    "description": "Learn about eco-friendly living through exhibitions, workshops, and green product showcases."
+  }
+]
