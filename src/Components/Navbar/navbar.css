@@ -1,0 +1,12 @@
+.navLink a.active {
+  border-bottom: 2px solid red;
+}
+.navLink a {
+  font-size: 17px;
+  margin-right: 50px;
+  padding-bottom: 5px;
+}
+.loginBtn.active {
+  background: rgb(82, 4, 4);
+  color: white;
+}
